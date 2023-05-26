@@ -1,2 +1,6 @@
 joblib
 xgboost
+sklearn
+streamlit
+numpy
+pandas
