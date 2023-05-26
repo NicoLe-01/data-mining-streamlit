@@ -5,8 +5,6 @@ import pandas as pd
 import xgboost
 
 
-
-rf_model = joblib.load('random_forest_model.pkl')
 xgb_model = joblib.load('xgb_model.pkl')
 
 
