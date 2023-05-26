@@ -1,5 +1,5 @@
 joblib
-xgboost
+xgboost=1.3.3
 sklearn
 streamlit
 numpy
